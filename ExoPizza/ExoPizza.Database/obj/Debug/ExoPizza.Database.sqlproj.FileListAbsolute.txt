@@ -1,0 +1,14 @@
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPizza\ExoPizza.Database\bin\Debug\ExoPizza.Database.dacpac
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPizza\ExoPizza.Database\bin\Debug\ExoPizza.Database.dll
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPizza\ExoPizza.Database\bin\Debug\ExoPizza.Database.pdb
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPizza\ExoPizza.Database\obj\Debug\ExoPizza.Database.dll
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPizza\ExoPizza.Database\obj\Debug\ExoPizza.Database.pdb
+C:\Users\studentdot0405\Desktop\ExoPizza\ExoPizza.Database\bin\Debug\ExoPizza.Database.dacpac
+C:\Users\studentdot0405\Desktop\ExoPizza\ExoPizza.Database\bin\Debug\ExoPizza.Database.dll
+C:\Users\studentdot0405\Desktop\ExoPizza\ExoPizza.Database\bin\Debug\ExoPizza.Database.pdb
+C:\Users\studentdot0405\Desktop\ExoPizza\ExoPizza.Database\obj\Debug\ExoPizza.Database.dll
+C:\Users\studentdot0405\Desktop\ExoPizza\ExoPizza.Database\obj\Debug\ExoPizza.Database.pdb
+C:\Users\studentdot0405\Desktop\ExoPizza\ExoPizza.Database\obj\Debug\Model.xml
+C:\Users\studentdot0405\Desktop\ExoPizza\ExoPizza.Database\obj\Debug\refactor.xml
+C:\Users\studentdot0405\Desktop\ExoPizza\ExoPizza.Database\obj\Debug\postdeploy.sql
+C:\Users\studentdot0405\Desktop\ExoPizza\ExoPizza.Database\obj\Debug\predeploy.sql

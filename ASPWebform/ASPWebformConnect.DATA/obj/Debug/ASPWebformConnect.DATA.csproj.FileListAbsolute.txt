@@ -1,0 +1,11 @@
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ASPWebform\ASPWebformConnect.DATA\bin\Debug\ASPWebformConnect.DATA.dll.config
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ASPWebform\ASPWebformConnect.DATA\bin\Debug\ASPWebformConnect.DATA.dll
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ASPWebform\ASPWebformConnect.DATA\bin\Debug\ASPWebformConnect.DATA.pdb
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ASPWebform\ASPWebformConnect.DATA\bin\Debug\EntityFramework.dll
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ASPWebform\ASPWebformConnect.DATA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ASPWebform\ASPWebformConnect.DATA\bin\Debug\EntityFramework.xml
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ASPWebform\ASPWebformConnect.DATA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ASPWebform\ASPWebformConnect.DATA\obj\Debug\ASPWebformConnect.DATA.csprojResolveAssemblyReference.cache
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ASPWebform\ASPWebformConnect.DATA\obj\Debug\ASPWebformConnect.DATA.csproj.CoreCompileInputs.cache
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ASPWebform\ASPWebformConnect.DATA\obj\Debug\ASPWebformConnect.DATA.dll
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ASPWebform\ASPWebformConnect.DATA\obj\Debug\ASPWebformConnect.DATA.pdb

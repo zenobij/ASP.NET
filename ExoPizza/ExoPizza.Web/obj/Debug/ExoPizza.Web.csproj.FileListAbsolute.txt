@@ -1,0 +1,32 @@
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPizza\ExoPizza.Web\bin\ExoPizza.Web.dll.config
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPizza\ExoPizza.Web\bin\ExoPizza.Web.dll
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPizza\ExoPizza.Web\bin\ExoPizza.Web.pdb
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPizza\ExoPizza.Web\bin\EntityFramework.dll
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPizza\ExoPizza.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPizza\ExoPizza.Web\bin\ExoPizza.Data.dll
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPizza\ExoPizza.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPizza\ExoPizza.Web\bin\ExoPizza.Data.pdb
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPizza\ExoPizza.Web\bin\ExoPizza.Data.dll.config
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPizza\ExoPizza.Web\bin\EntityFramework.xml
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPizza\ExoPizza.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPizza\ExoPizza.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPizza\ExoPizza.Web\obj\Debug\ExoPizza.Web.csprojResolveAssemblyReference.cache
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPizza\ExoPizza.Web\obj\Debug\ExoPizza.Web.csproj.CoreCompileInputs.cache
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPizza\ExoPizza.Web\obj\Debug\ExoPizza.Web.dll
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPizza\ExoPizza.Web\obj\Debug\ExoPizza.Web.pdb
+C:\Users\studentdot0405\Desktop\ExoPizza\ExoPizza.Web\bin\ExoPizza.Web.dll.config
+C:\Users\studentdot0405\Desktop\ExoPizza\ExoPizza.Web\bin\ExoPizza.Web.dll
+C:\Users\studentdot0405\Desktop\ExoPizza\ExoPizza.Web\bin\ExoPizza.Web.pdb
+C:\Users\studentdot0405\Desktop\ExoPizza\ExoPizza.Web\bin\EntityFramework.dll
+C:\Users\studentdot0405\Desktop\ExoPizza\ExoPizza.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\studentdot0405\Desktop\ExoPizza\ExoPizza.Web\bin\ExoPizza.Data.dll
+C:\Users\studentdot0405\Desktop\ExoPizza\ExoPizza.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\studentdot0405\Desktop\ExoPizza\ExoPizza.Web\bin\ExoPizza.Data.pdb
+C:\Users\studentdot0405\Desktop\ExoPizza\ExoPizza.Web\bin\ExoPizza.Data.dll.config
+C:\Users\studentdot0405\Desktop\ExoPizza\ExoPizza.Web\bin\EntityFramework.xml
+C:\Users\studentdot0405\Desktop\ExoPizza\ExoPizza.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\studentdot0405\Desktop\ExoPizza\ExoPizza.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\studentdot0405\Desktop\ExoPizza\ExoPizza.Web\obj\Debug\ExoPizza.Web.csprojResolveAssemblyReference.cache
+C:\Users\studentdot0405\Desktop\ExoPizza\ExoPizza.Web\obj\Debug\ExoPizza.Web.csproj.CoreCompileInputs.cache
+C:\Users\studentdot0405\Desktop\ExoPizza\ExoPizza.Web\obj\Debug\ExoPizza.Web.dll
+C:\Users\studentdot0405\Desktop\ExoPizza\ExoPizza.Web\obj\Debug\ExoPizza.Web.pdb

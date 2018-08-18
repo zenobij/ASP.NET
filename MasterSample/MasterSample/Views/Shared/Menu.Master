@@ -1,0 +1,28 @@
+﻿<%@ Master Language="C#" 
+    AutoEventWireup="true" 
+    CodeBehind="Menu.master.cs" 
+    Inherits="MasterSample.Views.Shared.Menu" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <asp:HyperLink NavigateUrl="~/Views/WebForm1.aspx" 
+            Text="Tab 1" runat="server" />
+        <asp:HyperLink NavigateUrl="~/Views/WebForm2.aspx" 
+            Text="Tab 2" runat="server" />
+
+        <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

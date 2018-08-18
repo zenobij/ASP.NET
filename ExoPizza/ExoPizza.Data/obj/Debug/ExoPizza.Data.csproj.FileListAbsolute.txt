@@ -1,0 +1,22 @@
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPizza\ExoPizza.Data\bin\Debug\ExoPizza.Data.dll.config
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPizza\ExoPizza.Data\bin\Debug\ExoPizza.Data.dll
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPizza\ExoPizza.Data\bin\Debug\ExoPizza.Data.pdb
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPizza\ExoPizza.Data\bin\Debug\EntityFramework.dll
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPizza\ExoPizza.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPizza\ExoPizza.Data\bin\Debug\EntityFramework.xml
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPizza\ExoPizza.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPizza\ExoPizza.Data\obj\Debug\ExoPizza.Data.csprojResolveAssemblyReference.cache
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPizza\ExoPizza.Data\obj\Debug\ExoPizza.Data.csproj.CoreCompileInputs.cache
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPizza\ExoPizza.Data\obj\Debug\ExoPizza.Data.dll
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPizza\ExoPizza.Data\obj\Debug\ExoPizza.Data.pdb
+C:\Users\studentdot0405\Desktop\ExoPizza\ExoPizza.Data\bin\Debug\ExoPizza.Data.dll.config
+C:\Users\studentdot0405\Desktop\ExoPizza\ExoPizza.Data\bin\Debug\ExoPizza.Data.dll
+C:\Users\studentdot0405\Desktop\ExoPizza\ExoPizza.Data\bin\Debug\ExoPizza.Data.pdb
+C:\Users\studentdot0405\Desktop\ExoPizza\ExoPizza.Data\bin\Debug\EntityFramework.dll
+C:\Users\studentdot0405\Desktop\ExoPizza\ExoPizza.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\studentdot0405\Desktop\ExoPizza\ExoPizza.Data\bin\Debug\EntityFramework.xml
+C:\Users\studentdot0405\Desktop\ExoPizza\ExoPizza.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\studentdot0405\Desktop\ExoPizza\ExoPizza.Data\obj\Debug\ExoPizza.Data.csprojResolveAssemblyReference.cache
+C:\Users\studentdot0405\Desktop\ExoPizza\ExoPizza.Data\obj\Debug\ExoPizza.Data.csproj.CoreCompileInputs.cache
+C:\Users\studentdot0405\Desktop\ExoPizza\ExoPizza.Data\obj\Debug\ExoPizza.Data.dll
+C:\Users\studentdot0405\Desktop\ExoPizza\ExoPizza.Data\obj\Debug\ExoPizza.Data.pdb

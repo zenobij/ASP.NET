@@ -1,0 +1,14 @@
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ASPWebform\TestDuRepo\bin\Debug\TestDuRepo.exe.config
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ASPWebform\TestDuRepo\bin\Debug\TestDuRepo.exe
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ASPWebform\TestDuRepo\bin\Debug\TestDuRepo.pdb
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ASPWebform\TestDuRepo\bin\Debug\ASPWebformConnect.DATA.dll
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ASPWebform\TestDuRepo\bin\Debug\EntityFramework.dll
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ASPWebform\TestDuRepo\bin\Debug\ASPWebformConnect.DATA.pdb
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ASPWebform\TestDuRepo\bin\Debug\ASPWebformConnect.DATA.dll.config
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ASPWebform\TestDuRepo\bin\Debug\EntityFramework.xml
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ASPWebform\TestDuRepo\obj\Debug\TestDuRepo.csprojResolveAssemblyReference.cache
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ASPWebform\TestDuRepo\obj\Debug\TestDuRepo.csproj.CoreCompileInputs.cache
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ASPWebform\TestDuRepo\obj\Debug\TestDuRepo.exe
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ASPWebform\TestDuRepo\obj\Debug\TestDuRepo.pdb
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ASPWebform\TestDuRepo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ASPWebform\TestDuRepo\bin\Debug\EntityFramework.SqlServer.xml

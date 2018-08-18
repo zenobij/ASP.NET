@@ -1,0 +1,14 @@
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPizza\TestPizza\bin\Debug\TestPizza.exe.config
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPizza\TestPizza\bin\Debug\TestPizza.exe
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPizza\TestPizza\bin\Debug\TestPizza.pdb
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPizza\TestPizza\bin\Debug\EntityFramework.dll
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPizza\TestPizza\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPizza\TestPizza\bin\Debug\ExoPizza.Data.dll
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPizza\TestPizza\bin\Debug\ExoPizza.Data.pdb
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPizza\TestPizza\bin\Debug\ExoPizza.Data.dll.config
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPizza\TestPizza\bin\Debug\EntityFramework.xml
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPizza\TestPizza\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPizza\TestPizza\obj\Debug\TestPizza.csprojResolveAssemblyReference.cache
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPizza\TestPizza\obj\Debug\TestPizza.csproj.CoreCompileInputs.cache
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPizza\TestPizza\obj\Debug\TestPizza.exe
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPizza\TestPizza\obj\Debug\TestPizza.pdb

@@ -1,0 +1,21 @@
+
+La pizzeria "del sol" vous passe commande de logiciel.
+Il faut créer un backoffice qui aura les fonctionnalités suivantes :
+* Créer une nouvelle pizza
+* Updater une pizza
+* Delete une pizza
+* Montrer un tableau récpitulatif des différentes pizzas
+
+Une pizza est :
+* Un nom
+* Un code autogénéré de 5 lettres
+* Un prix de base
+* Une liste d'ingrédients
+
+Un ingrédient est :
+* Un nom
+* Une quantité (table intermédiaire ???)
+* Une catégorie et une seule
+  
+Une catégorie est :
+* Un nom (string) => condiments - fromages - légumes - fruits - viandes

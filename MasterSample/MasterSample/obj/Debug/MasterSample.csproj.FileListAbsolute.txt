@@ -1,0 +1,18 @@
+C:\Users\t_7749_DotNetMob\Documents\Wavenet\Fedrigo Bruno\Formation\ASP.NET\MasterSample\MasterSample\bin\MasterSample.dll.config
+C:\Users\t_7749_DotNetMob\Documents\Wavenet\Fedrigo Bruno\Formation\ASP.NET\MasterSample\MasterSample\bin\MasterSample.dll
+C:\Users\t_7749_DotNetMob\Documents\Wavenet\Fedrigo Bruno\Formation\ASP.NET\MasterSample\MasterSample\bin\MasterSample.pdb
+C:\Users\t_7749_DotNetMob\Documents\Wavenet\Fedrigo Bruno\Formation\ASP.NET\MasterSample\MasterSample\obj\Debug\MasterSample.csprojResolveAssemblyReference.cache
+C:\Users\t_7749_DotNetMob\Documents\Wavenet\Fedrigo Bruno\Formation\ASP.NET\MasterSample\MasterSample\obj\Debug\MasterSample.dll
+C:\Users\t_7749_DotNetMob\Documents\Wavenet\Fedrigo Bruno\Formation\ASP.NET\MasterSample\MasterSample\obj\Debug\MasterSample.pdb
+C:\Users\t_8189_dotnetmob\Desktop\asp\Démo\MasterSample\MasterSample\bin\MasterSample.dll.config
+C:\Users\t_8189_dotnetmob\Desktop\asp\Démo\MasterSample\MasterSample\bin\MasterSample.dll
+C:\Users\t_8189_dotnetmob\Desktop\asp\Démo\MasterSample\MasterSample\bin\MasterSample.pdb
+C:\Users\t_8189_dotnetmob\Desktop\asp\Démo\MasterSample\MasterSample\obj\Debug\MasterSample.csprojResolveAssemblyReference.cache
+C:\Users\t_8189_dotnetmob\Desktop\asp\Démo\MasterSample\MasterSample\obj\Debug\MasterSample.dll
+C:\Users\t_8189_dotnetmob\Desktop\asp\Démo\MasterSample\MasterSample\obj\Debug\MasterSample.pdb
+C:\Users\t_8721_multidevice\Desktop\Demos et site\Demo MasterPage\MasterSample\MasterSample\bin\MasterSample.dll.config
+C:\Users\t_8721_multidevice\Desktop\Demos et site\Demo MasterPage\MasterSample\MasterSample\bin\MasterSample.dll
+C:\Users\t_8721_multidevice\Desktop\Demos et site\Demo MasterPage\MasterSample\MasterSample\bin\MasterSample.pdb
+C:\Users\t_8721_multidevice\Desktop\Demos et site\Demo MasterPage\MasterSample\MasterSample\obj\Debug\MasterSample.csprojResolveAssemblyReference.cache
+C:\Users\t_8721_multidevice\Desktop\Demos et site\Demo MasterPage\MasterSample\MasterSample\obj\Debug\MasterSample.dll
+C:\Users\t_8721_multidevice\Desktop\Demos et site\Demo MasterPage\MasterSample\MasterSample\obj\Debug\MasterSample.pdb

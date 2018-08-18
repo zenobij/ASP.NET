@@ -1,0 +1,21 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Categorie] (Table)
+       [dbo].[Ingredient] (Table)
+       [dbo].[Pizza] (Table)
+       [dbo].[PizzaIngredients] (Table)
+       [dbo].[FK_Ingredient_Categorie] (Foreign Key)
+       [dbo].[FK_PizzaIngredients_Pizza] (Foreign Key)
+       [dbo].[FK_PizzaIngredients_Ingredient] (Foreign Key)
+
+** Supporting actions
